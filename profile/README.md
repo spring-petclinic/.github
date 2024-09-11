@@ -1,12 +1,4 @@
-## Hi there 👋
+## Hi Spring Petclinic Lovers 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+This Spring Petclinic organisation on GitHub offers **variants** of the official [Spring Petclinic](https://github.com/spring-projects/spring-petclinic) demo project, illustrating various aspects of Spring technologies. You'll find **classic implementations** using **Spring Boot** as well as **modern architectures**, such as **microservices** via **Spring Cloud**.
+Versions using **Angular** and **React** for the front end are also available, showing the integration of Spring with contemporary JavaScript frameworks. These projects serve as references for implementing best practices with Spring and architecting scalable applications. They are particularly useful for **Java**, **Kotlin** and **frontend developers** wishing to explore robust and modern solutions.
